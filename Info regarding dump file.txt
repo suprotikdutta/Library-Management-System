@@ -1,0 +1,2 @@
+NITE:
+lib.sql is the dump file for the database .Copy the code and coonect with JDBC ,database will be generated 
